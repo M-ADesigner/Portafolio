@@ -1,3 +1,5 @@
+
+
 Vue.config.devtools = true;
 
 Vue.component('card', {
@@ -74,3 +76,8 @@ Vue.component('card', {
 
 const app = new Vue({
   el: '#app' });
+
+  
+/*
+    Auther: Abdelrhman Said
+*/
